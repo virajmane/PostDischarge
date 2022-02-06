@@ -1,10 +1,5 @@
 # PostDischarge
 
-Contents
-========
-
- * [Installation](#installation)
-
 ### Installation
 ---
 
